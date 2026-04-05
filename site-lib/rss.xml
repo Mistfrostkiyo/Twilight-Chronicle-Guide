@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Files]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Files</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 05 Apr 2026 15:11:55 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 05 Apr 2026 15:11:55 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Guide]]></title><description><![CDATA[Hi guys, after the first season of hegemony comes to an end, I believe that my alliance and I have gained a lot of information about how hegemony works.So I thought it would be nice to share what we know. Our alliance is called Tenebrae and we ranked 3rd on the overall leaderboard for EU.We did this without having to rely an a 'mega whale' to clearing everything, but instead relied on teamwork and being smart.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Files]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Files</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 05 Apr 2026 15:27:36 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 05 Apr 2026 15:27:36 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Guide]]></title><description><![CDATA[Hi guys, after the first season of hegemony comes to an end, I believe that my alliance and I have gained a lot of information about how hegemony works.So I thought it would be nice to share what we know. Our alliance is called Tenebrae and we ranked 3rd on the overall leaderboard for EU.We did this without having to rely an a 'mega whale' to clearing everything, but instead relied on teamwork and being smart.
 ㅤ
 ㅤ
 ㅤ
@@ -15,9 +15,7 @@ By the end of the hegemony week I can clear the outside paths with 1 SSR hero. W
 ㅤ
 ㅤ
 ㅤ
-ㅤ
-ㅤ
-ㅤ
+ㅤㅤ
 ㅤ
 ㅤ
 ㅤThe fatigue system is very misunderstood, and can be used to MASSIVELY help you in hegemony. The description in game that talks about fatigue doesn't align with what actually happens, thus there can be some confusion about fatigue. I will describe it how I've seen it work in game. When you attack anything in hegemony, your team will gain 5 fatigue stacks (this is the same if you deploy 1 hero to attack, or deploy 6 heroes). After 5, 10, and 15 attacks, your team will gain a 30%, 60%, and 90% stat reduction respectively. Alternatively, if your team is in standby mode at any structure on the map, they can also gain fatigue when getting attacked (the same as described above), however (this part I'm not 100% sure about so correct me if needed) I believe that the attacker must attack with a full 6 man team in order to apply the max stacks of fatigue on a defending team e.g you can't spam a 1 hero team into a defending team to fatigue them. When the defending team gets attacked, then will change from 'standby' mode to 'garrison' mode. The defending teams first defense against an attacking will consume 10 energy. The now garrisoning defense will no longer lose energy if they get attacked again, however they will continue to gain fatigue stacks. To remove the fatigue stacks, you need to leave the base, and re-enter, however this means that if you get attacked again, you will now lose another 10 energy for the initial defense.
@@ -25,8 +23,7 @@ By the end of the hegemony week I can clear the outside paths with 1 SSR hero. W
 ㅤ
 ㅤ
 ㅤ
-ㅤ
-ㅤ
+ㅤㅤ
 ㅤ
 ㅤ
 ㅤ
@@ -35,8 +32,7 @@ By the end of the hegemony week I can clear the outside paths with 1 SSR hero. W
 ㅤ
 ㅤ
 ㅤ
-ㅤ
-ㅤ
+ㅤㅤ
 ㅤ
 ㅤ
 ㅤ
@@ -47,8 +43,7 @@ They keep full sending it Remember though, this one defense cost your team 10 en
 ㅤ
 ㅤ
 ㅤ
-ㅤ
-ㅤ
+ㅤㅤ
 ㅤ
 ㅤ
 ㅤ
@@ -57,8 +52,7 @@ They keep full sending it Remember though, this one defense cost your team 10 en
 ㅤ
 ㅤ
 ㅤ
-ㅤ
-ㅤ
+ㅤㅤ
 ㅤ
 ㅤ
 ㅤ
@@ -67,9 +61,8 @@ They keep full sending it Remember though, this one defense cost your team 10 en
 ㅤ
 ㅤ
 ㅤ
+ㅤㅤ
 ㅤ
 ㅤ
 ㅤ
-ㅤ
-ㅤ
-ㅤThe final 2 hours can get a bit hectic if you are against other strong alliances that also want to win. If your team is already winning based on score, then you actually don't need to do anything. You can apply the defending tactic from above to defend your main structures e.g. the lions, swift stele, adv cities etc. You do NOT want to attack the genesis idol and 'help' the opposition claim it. Instead, the first course of action will be controlling space, and disallowing the enemies to get close to the genesis idol. If you have a legion available, create a legion march to one of the lions and wait there. You can't wait 1 tile away from the idol as you can only march to structures, not tiles/crystals. Inevitably, a breakthrough may happen and they will start attacking the idol. If they do, be prepared to wait outside until the idol is low hp. If you have a legion close by, and the idol has 20 hp, your legion can be sent into the idol to guarantee the last hit capture. Defense strategies from earlier apply here again to defend your lead.]]></description><link>guide.html</link><guid isPermaLink="false">Guide.md</guid><pubDate>Sun, 05 Apr 2026 15:06:50 GMT</pubDate></item></channel></rss>
+ㅤThe final 2 hours can get a bit hectic if you are against other strong alliances that also want to win. If your team is already winning based on score, then you actually don't need to do anything. You can apply the defending tactic from above to defend your main structures e.g. the lions, swift stele, adv cities etc. You do NOT want to attack the genesis idol and 'help' the opposition claim it. Instead, the first course of action will be controlling space, and disallowing the enemies to get close to the genesis idol. If you have a legion available, create a legion march to one of the lions and wait there. You can't wait 1 tile away from the idol as you can only march to structures, not tiles/crystals. Inevitably, a breakthrough may happen and they will start attacking the idol. If they do, be prepared to wait outside until the idol is low hp. If you have a legion close by, and the idol has 20 hp, your legion can be sent into the idol to guarantee the last hit capture. Defense strategies from earlier apply here again to defend your lead.]]></description><link>guide.html</link><guid isPermaLink="false">Guide.md</guid><pubDate>Sun, 05 Apr 2026 15:27:27 GMT</pubDate></item></channel></rss>
