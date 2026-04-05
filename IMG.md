@@ -1,9 +1,0 @@
-![[Guide/site-lib/img/Structures.png]]
-![[Standby.jpg]]
-![[Assignment.jpg]]
-![[Legion_March.jpg]]
-![[Legion_Conscription.jpg]]
-![[Garrison.jpg]]
-![[Fatigue.jpg]]
-![[Center.jpg]]
-e
